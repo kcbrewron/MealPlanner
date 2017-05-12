@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.kcbrewron.meals
+Implementation-Version: 1.0.0
+Built-By: Ron
+Implementation-Vendor-Id: com.kcbrewron
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/meals/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
